@@ -50,6 +50,6 @@
 _Developed by_
 >Backend By **[Rishabh-Negi](https://github.com/Rishabh-Negi)** 
 
->Frontend By **[HUSAIN-SABIR](https://github.com/Rishabh-Negi)**
+>Frontend By **[HUSAIN-SABIR](https://github.com/husainSabir)**
 
 
